@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soukou portfolio</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+         <!--nav bar-->
+         <nav class="navbar">
+            <div class="name"><h1 class="last_name">Soukou</h1> <h1 class="first_name">   Franck-Axel</h1></div>
+             <div class="menu">
+                 <div class="menu_list">
+                     <a href="index.html" class="decor"><div class="home">Accueil</div></a>
+                     <a href="aboutuspage.html" class="decor"><div class="about">À propos</div></a>
+                     <a href="services.html" class="decor2"> <div class="services">Services</div></a>
+                     <div class="contact" onclick="showDiv()">Contact</div>
+                 </div>
+
+                 <div class="burger_menu">
+                    <i class="fa-solid fa-bars"></i>
+                 </div>
+             </div>  
+
+             <div class="dropdown-menu">
+                <li><a href="index.html" class="decor"><div class="home">Accueil</div></a></li>
+                <li><a href="aboutuspage.html" class="decor"><div class="about">À propos</div></a></li>
+               <li> <a href="services.html" class="decor2"> <div class="services">Services</div></a></li>
+                <li><div class="contact" onclick="showDiv()">Contact</div></li>
+    
+             </div>
+         </nav>
+
+          <!--hidden div-->
+     <div id="contactpage">
+        <div class="command">
+            <div class="button" onclick="hideDiv()">
+                <div class="croix">Χ</div>
+            </div>
+        </div>
+        <div class="boxelement">
+            <div class="contact_title"><h1>Contactez</h1><h1 class="special-style">Moi</h1></div>
+            <div class="contact_element">
+                <div class="join"><h2>E-mail:</h2><h3>eskadebelair@gmail.com</h3></div>
+                <div class="whatsapp2" onclick="sendEmail()">Email</div>
+                <div class="join"><h2>Mobile:</h2><h3>[+225] 0173659493 / [+233] 0538939262</h3></div>
+                <div class="whatsapp" onclick="contactSeller()">Whatsapp</div>
+                
+
+            </div>
+
+        </div>
+     </div>
+  
+       <!--services see more us main content-->
+       <section class="main-container">
+          <div class="child-container-services2">
+            <div class="services-title"><h1>Graphic</h1><h1 class="special-style">Designer</h1></div>
+             
+            <div class="services-options">
+                
+                
+                <!--content-->
+                <div class="serviceseemoreI">
+
+                </div>
+                <!--text-->
+                <div class="serviceseemoreT1">
+                    <p>Donnez Vie à Votre Marque avec un Design Créatif et Impactant
+
+                        Vous recherchez des visuels uniques et percutants pour votre entreprise, votre projet ou votre marque personnelle ? Je vous propose des services de design graphique sur mesure, adaptés à vos besoins et à votre identité visuelle. Avec une approche créative et une attention particulière aux détails, je transforme vos idées en visuels professionnels et attrayants.
+                        
+                        
+                        ---
+                        
+                        📌 Mes Services en Détail
+                        
+                        1. Création de Logos et Identité Visuelle
+                        
+                        Conception de logos uniques et mémorables adaptés à votre marque
+                        
+                        Déclinaison du logo sur différents supports (couleurs, versions monochromes, favicon, etc.)
+                        
+                        Élaboration d’une charte graphique complète : typographies, couleurs, styles visuels
+                        
+                        Création de cartes de visite, papier en-tête, signatures e-mail, et autres supports de branding
+                        
+                        
+                        
+                        ---
+                        
+                        2. Supports de Communication & Publicité
+                        
+                        Flyers, affiches et posters pour événements, promotions ou campagnes publicitaires
+                        
+                        Bannières et visuels pour réseaux sociaux (Instagram, Facebook, LinkedIn, YouTube, etc.)
+                        
+                        Conception de brochures, catalogues et magazines pour une communication efficace
+                        
+                        Présentations PowerPoint ou PDF avec un design percutant
+                        </p>
+                </div>
+               
+          </div>
+       </section>
+  
+      
+  
+       <script src="script.js"></script>
+</body>
+</html>
