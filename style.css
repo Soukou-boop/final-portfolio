@@ -26,10 +26,13 @@ html {
     align-items: center;
 }
 .name {
-    width: 18em;
-    margin-left: -1.3em;
+   
+   
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     justify-content: space-around;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
     
 }
 .last_name {
@@ -47,10 +50,7 @@ html {
     width: 100%;
     justify-content: space-around;
 }
-.name {
-    display: flex;
-    align-items: center;
-}
+
 
 .home, .about, .services, .contact {
     cursor: pointer;
@@ -1010,9 +1010,12 @@ li {
 
 /*responsive*/
 
-@media (max-width: 448px) {
+@media (max-width: 992px) {
     .name {
+        text-wrap: nowrap;
         font-size: 0.8rem;
+        display: flex;
+        align-items: center;
     }
     
     .navbar .menu .menu_list, .navbar3 .menu .menu_list  {
@@ -1021,12 +1024,12 @@ li {
     }
     .navbar .burger_menu {
         display: block;
-        margin-left: 2em;
+       
         
     }
     .navbar3 .burger_menu {
         display: block;
-        margin-left: 2em;
+       
     }
 
 
@@ -1091,6 +1094,7 @@ li {
     .text {
         width: 100%;
         font-size: 1.4rem;
+        flex-direction: column;
     }
 
     /*about*/
