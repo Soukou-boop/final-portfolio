@@ -1086,7 +1086,7 @@ li {
     .left-side {
        
         width: 100%;
-        font-size: clamp(1rem, 2.5vw, 3rem);
+        
         padding-right: 1rem;
         padding-left: 1rem;
         
@@ -1098,13 +1098,15 @@ li {
     }
     .right-side {
        
-       
+        margin-top: -6rem;
         width: 90%;
         padding: 10%;
     }
    
 
-   
+    .second_line {
+        font-size: 2rem;
+    }
     .profession1 {
        
       margin-right: 6.3em;
@@ -1123,7 +1125,7 @@ li {
     .profession {
         margin-left: -3em;
         flex-direction: column;
-        font-size: 1rem;
+       
     }
      
     .child-main-container {
@@ -1137,7 +1139,7 @@ li {
 
     .text {
         width: 100%;
-       
+        font-size: clamp(1.8rem, 2.5vw, 2.8rem);
         flex-direction: column;
     }
 
