@@ -1104,9 +1104,7 @@ li {
     }
    
 
-    .second_line {
-       
-    }
+   
     .profession1 {
        
       margin-right: 6.3em;
@@ -1142,6 +1140,9 @@ li {
         font-size: 1.8rem;
         flex-direction: column;
     }
+    .second_line {
+        font-size: clamp(1rem, 2.5vw, 2rem);
+     }
 
     .cv-button {
         margin-left: 7em;
