@@ -1055,7 +1055,7 @@ li {
         
     }
     .navbar {
-       width: 100%;
+      
         z-index: 1000;
         background-color: #000000af;
     }
@@ -1109,6 +1109,7 @@ li {
         position: absolute;
         font-size: 1.2rem;
         margin-top: -6em;
+        
     }
 
     @keyframes abrusrightside {
