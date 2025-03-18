@@ -1033,10 +1033,6 @@ li {
         display: block;
        
     }
-    .burger_menu {
-        margin-left: 1.9em;
-    }
-
     
 
 
@@ -1058,7 +1054,10 @@ li {
         background-color: #000000af;
     }
 
-    
+    .burger_menu {
+        margin-left: 2em;
+    }
+
     /*home */
 
     .main-container {
@@ -1115,9 +1114,14 @@ li {
     
 
     .text {
-        width: 90%;
+        width: 100%;
         font-size: 1.4rem;
+        margin-left: 3em;
         flex-direction: column;
+    }
+
+    .cv-button {
+        margin-left: 10em;
     }
 
     /*about*/
