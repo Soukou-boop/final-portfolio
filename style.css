@@ -1199,12 +1199,16 @@ li {
         display: none;
     }
     .textside1 {
-        padding: 1em;
+        padding-left: 1.6rem;
+        padding-right: 1.6rem;
+        width: 100%;
         font-size: 1.2rem;
     }
     .textside2 {
-        padding: 1em;
-        font-size: 1.1rem;
+        padding-left: 1.6rem;
+        padding-right: 1.6rem;
+        width: 100%;
+        font-size: 1.2rem;
     }
 
     .main-container-2, .main-container-9  {
