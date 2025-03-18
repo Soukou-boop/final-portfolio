@@ -1101,6 +1101,7 @@ li {
         font-size: 1.4rem;
     }
     .profession {
+        font-right: -4em;
         flex-direction: column;
     }
      
