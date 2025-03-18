@@ -1117,7 +1117,7 @@ li {
 
     .text {
         width: 100%;
-        font-size: 200px;
+        font-size: 1rem;
         margin-left: 0.5em;
         flex-direction: column;
     }
@@ -1138,7 +1138,7 @@ li {
         width: 10em;
         position: absolute;
         font-size: 1.2rem;
-        margin-top: 190px;
+        margin-top: 220px;
     }
 
     @keyframes abrusrightside {
@@ -1155,7 +1155,7 @@ li {
     .aboutus-left-side1 {
         position: absolute;
         width: 90%;
-        margin-top: 500px;
+        margin-top: 30em;
     }
     @keyframes aboutusanim {
         0%{
