@@ -1080,7 +1080,7 @@ li {
        
     }
     .right-side {
-        margin-top: -2em;
+        margin-top: -2px;
         height: 29%;
         width: 90%;
         padding: 10%;
@@ -1102,7 +1102,7 @@ li {
         font-size: 1.4rem;
     }
     .profession {
-        margin-left: -2em;
+        margin-left: -2px;
         flex-direction: column;
     }
      
