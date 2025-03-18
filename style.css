@@ -1062,7 +1062,7 @@ li {
     /*home */
 
     .main-container {
-        padding-top: 16px;
+       
         height: 200vh;
         height: 200dvh;
         
@@ -1080,7 +1080,7 @@ li {
        
     }
     .right-side {
-        margin-top: -32px;
+        margin-top: -200px;
         height: 29%;
         width: 90%;
         padding: 10%;
@@ -1102,7 +1102,7 @@ li {
         font-size: 1.4rem;
     }
     .profession {
-        margin-left: -32px;
+        margin-left: 100px;
         flex-direction: column;
     }
      
