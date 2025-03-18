@@ -1101,7 +1101,7 @@ li {
         margin-top: -6rem;
         width: 100%;
         padding: 10%;
-        height: 24%;
+        height: 29%;
     }
    
 
@@ -1122,9 +1122,9 @@ li {
         font-size: 1rem;
     }
     .profession {
-        margin-left: -8em;
+        margin-left: -13em;
         flex-direction: column;
-        font-size: 1.2rem;
+        font-size: 1.1rem;
        
     }
      
@@ -1147,7 +1147,7 @@ li {
      }
 
     .cv-button {
-        margin-left: 7em;
+        margin-left: 6em;
     }
 
     /*about*/
