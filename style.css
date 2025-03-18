@@ -1091,7 +1091,7 @@ li {
         padding-left: 1rem;
         
        
-        
+        margin-top: -4rem;
        
         justify-content: center;
        
@@ -1102,13 +1102,9 @@ li {
         width: 90%;
         padding: 10%;
     }
-    .firstline {
-        font-size: 1.8rem;
-    }
+   
 
-    .second_line {
-        font-size: 1.8rem;
-    }
+   
     .profession1 {
         font-size: 1.8rem;
       margin-right: 6.3em;
@@ -1127,6 +1123,7 @@ li {
     .profession {
         margin-left: -3em;
         flex-direction: column;
+        font-size: 1rem;
     }
      
     .child-main-container {
