@@ -1100,6 +1100,7 @@ li {
         font-size: 1.4rem;
     }
     .profession {
+        margin-left: 5em;
         flex-direction: column;
     }
      
@@ -1115,12 +1116,12 @@ li {
     .text {
         width: 100%;
         font-size: 1.4rem;
-        margin-left: 15px;
+        margin-left: 0.5em;
         flex-direction: column;
     }
 
     .cv-button {
-        margin-left: 10em;
+        margin-left: 7em;
     }
 
     /*about*/
