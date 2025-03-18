@@ -1191,6 +1191,9 @@ li {
 
     /*about us see more*/
     .child-container-5 {
+        height: 100%;
+        padding-top: 5rem;
+        padding-bottom:3rem ;
         flex-direction: column;
 
     }
@@ -1199,25 +1202,21 @@ li {
     .ideaT {
         display: none;
     }
-    .child-container-5 {
-        height: 100%;
-    }
+   
     .textside1 {
-        padding-top: 9rem;
-        padding-bottom: 4rem;
+        height: auto;
         padding-left: 1.6rem;
         padding-right: 1.6rem;
        
         width: 100%;
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
     .textside2 {
-        padding-top: 2rem;
-        padding-bottom: 4rem;
+        height: auto;
         padding-left: 1.6rem;
         padding-right: 1.6rem;
         width: 100%;
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
 
     .main-container-2, .main-container-9  {
