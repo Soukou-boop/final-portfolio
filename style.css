@@ -1054,7 +1054,7 @@ li {
     /*home */
 
     .main-container {
-        padding-top: 5em;
+        padding-top: 13em;
         height: 200vh;
         height: 200dvh;
         
@@ -1190,7 +1190,7 @@ li {
         gap: 3.5em;
     }
     .option1, .option2, .option3 {
-        width: 15em;
+        width: 10em;
         gap: 2rem;
     }
 
