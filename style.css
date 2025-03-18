@@ -1133,9 +1133,9 @@ li {
     
 
     .text {
-        width: 13em;
-        font-size: 1.4rem;
-        padding-right: 1.5rem;
+        width: 100%;
+        font-size: 1.2rem;
+        padding-right: 1.2rem;
         padding-left: 1.5rem;
         flex-direction: column;
     }
@@ -1200,8 +1200,7 @@ li {
         display: none;
     }
     .textside1 {
-        padding-top: 4rem;
-        padding: 4rem;
+       
         padding-left: 1.6rem;
         padding-right: 1.6rem;
         height: 80%;
@@ -1209,8 +1208,7 @@ li {
         font-size: 1.2rem;
     }
     .textside2 {
-        padding-top: 4rem;
-        padding: 4rem;
+      
         padding-left: 1.6rem;
         padding-right: 1.6rem;
         width: 100%;
