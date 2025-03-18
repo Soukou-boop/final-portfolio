@@ -1218,7 +1218,8 @@ li {
         font-size: 1.2rem;
     }
     .services-title {
-        margin-top: -28em;
+        position: absolute;
+        margin-top: -23em;
         font-size: 1.2rem;
     }
     .services-options {
