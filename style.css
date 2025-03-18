@@ -1076,7 +1076,7 @@ li {
     /*home */
 
     .main-container {
-        padding-top: 10em;
+        padding-top: 3em;
         height: 200vh;
         height: 200dvh;
         
@@ -1133,7 +1133,7 @@ li {
     
 
     .text {
-        width: 15em;
+        width: 13em;
         font-size: 1.4rem;
         padding-right: 1.5rem;
         padding-left: 1.5rem;
