@@ -32,8 +32,7 @@ html {
     justify-content: space-around;
     display: flex;
     align-items: center;
-    gap: 0.8vw;
-   
+    gap: 1rem;
     
 }
 .last_name {
@@ -365,6 +364,7 @@ html {
 .child-main-container {
     height: 100%;
     display: flex;
+    padding: 0 1rem;
     align-items: center;
     justify-content: space-around;
     font-family: Arial, Helvetica, sans-serif;
@@ -1035,7 +1035,6 @@ li {
         display: block;
        
     }
-   
     
 
 
@@ -1062,7 +1061,7 @@ li {
     /*home */
 
     .main-container {
-       
+        padding-top: 13em;
         height: 200vh;
         height: 200dvh;
         
@@ -1080,8 +1079,8 @@ li {
        
     }
     .right-side {
-        margin-top: 200px;
-        height: 29%;
+        margin-top: -30%;
+        height: 40%;
         width: 90%;
         padding: 10%;
     }
@@ -1094,7 +1093,7 @@ li {
       margin-right: 6.3em;
     }
     .profession2 {
-        margin-right: 0.2em;
+        margin-right: 0.1em;
       
     }
 
@@ -1102,7 +1101,7 @@ li {
         font-size: 1.4rem;
     }
     .profession {
-        margin-left: 100px;
+        margin-left: -3em;
         flex-direction: column;
     }
      
@@ -1116,8 +1115,8 @@ li {
     
 
     .text {
-        width: 100%;
-        font-size: 1rem;
+        width: 15em;
+        font-size: 1.4rem;
         margin-left: 0.5em;
         flex-direction: column;
     }
@@ -1138,7 +1137,7 @@ li {
         width: 10em;
         position: absolute;
         font-size: 1.2rem;
-        margin-top: 220px;
+        margin-top: -6em;
     }
 
     @keyframes abrusrightside {
@@ -1155,7 +1154,7 @@ li {
     .aboutus-left-side1 {
         position: absolute;
         width: 90%;
-        margin-top: 30em;
+        margin-top: 60em;
     }
     @keyframes aboutusanim {
         0%{
