@@ -1067,6 +1067,10 @@ li {
         justify-content: center;
        
     }
+    .right-side {
+        width: 90%;
+        padding: 10%;
+    }
 
     .second_line {
         font-size: 1.8rem;
