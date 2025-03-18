@@ -32,6 +32,7 @@ html {
     justify-content: space-around;
     display: flex;
     align-items: center;
+    gap: 0.5vw;
    
     
 }
