@@ -1018,7 +1018,7 @@ li {
         font-size: 0.8rem;
         display: flex;
         align-items: center;
-        gap: 5px;
+        gap: 0px;
     }
     
     .navbar .menu .menu_list, .navbar3 .menu .menu_list  {
