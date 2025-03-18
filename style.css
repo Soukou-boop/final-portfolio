@@ -65,10 +65,11 @@ html {
 
 .navbar .burger_menu, .navbar3 .burger_menu {
     color: #fff;
-    font-size: 2.8rem;
+    font-size: 2rem;
     cursor: pointer;
     display: none;
 }
+
 /*hidden div*/
 #contactpage {
     position: absolute;
@@ -1009,7 +1010,7 @@ li {
 
 /*responsive*/
 
-@media (max-width: 600px) {
+@media (max-width: 992px) {
     .name {
         font-size: 0.8rem;
     }
@@ -1051,12 +1052,20 @@ li {
         
     }
     .navbar {
+       width: 100%;
         z-index: 1000;
         background-color: #000000af;
     }
+    
     .left-side {
+        padding: 10%;
+        width: 70%;
         margin-right: 9em;
         margin-top: -5em;
+        
+       
+        justify-content: center;
+       
     }
 
     .second_line {
