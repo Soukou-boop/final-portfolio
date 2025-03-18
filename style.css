@@ -1092,7 +1092,7 @@ li {
       margin-right: 6.3em;
     }
     .profession2 {
-        margin-right: 0em;
+        margin-right: 0.1em;
       
     }
 
@@ -1100,7 +1100,7 @@ li {
         font-size: 1.4rem;
     }
     .profession {
-        margin-left: 5em;
+        margin-left: -3em;
         flex-direction: column;
     }
      
@@ -1114,7 +1114,7 @@ li {
     
 
     .text {
-        width: 100%;
+        width: 15em;
         font-size: 1.4rem;
         margin-left: 0.5em;
         flex-direction: column;
