@@ -1034,6 +1034,10 @@ li {
         display: block;
        
     }
+    .burger_menu {
+        margin-left: 0.6rem;
+       
+    }
     
 
 
@@ -1100,7 +1104,7 @@ li {
         font-size: 1.4rem;
     }
     .profession {
-        margin-left: -3em;
+        margin-left: -4em;
         flex-direction: column;
     }
      
