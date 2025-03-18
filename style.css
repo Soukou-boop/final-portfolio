@@ -1033,9 +1033,7 @@ li {
         display: block;
        
     }
-    .profession1 {
-        margin-right: 6em;
-    }
+    
 
 
     .dropdown-menu {
@@ -1050,6 +1048,15 @@ li {
         width: 20rem;
         border-radius: 20px;
     }
+    .navbar {
+        justify-content: space-around;
+        z-index: 1000;
+        background-color: #000000af;
+    }
+
+    .burger_menu {
+        margin-left: 2em;
+    }
 
     /*home */
 
@@ -1059,15 +1066,11 @@ li {
         height: 200dvh;
         
     }
-    .navbar {
-      
-        z-index: 1000;
-        background-color: #000000af;
-    }
+   
     
     .left-side {
         padding: 10%;
-        width: 70%;
+        width: 75%;
         margin-right: 9em;
         margin-top: -5em;
         
@@ -1076,6 +1079,8 @@ li {
        
     }
     .right-side {
+        margin-top: -30%;
+        height: 40%;
         width: 90%;
         padding: 10%;
     }
@@ -1083,6 +1088,13 @@ li {
 
     .second_line {
         font-size: 1.8rem;
+    }
+    .profession1 {
+      margin-right: 6.3em;
+    }
+    .profession2 {
+        margin-right: 0em;
+      
     }
 
     .resume {
