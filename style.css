@@ -1005,7 +1005,9 @@ li {
     height: 240px;
 }
 
-
+.profession1{
+    position: relative;
+}
 
 
 /*responsive*/
@@ -1030,6 +1032,9 @@ li {
     .navbar3 .burger_menu {
         display: block;
        
+    }
+    .profession1 {
+        margin-right: 6em;
     }
 
 
@@ -1074,6 +1079,7 @@ li {
         width: 90%;
         padding: 10%;
     }
+    
 
     .second_line {
         font-size: 1.8rem;
@@ -1081,6 +1087,9 @@ li {
 
     .resume {
         font-size: 1.4rem;
+    }
+    .profession {
+        flex-direction: column;
     }
      
     .child-main-container {
@@ -1090,6 +1099,7 @@ li {
         
         
     }
+    
 
     .text {
         width: 100%;
@@ -1106,10 +1116,10 @@ li {
        
     }
     .aboutus-right-side {
+        width: 90%;
         position: absolute;
         font-size: 1.2rem;
         margin-top: -6em;
-        
     }
 
     @keyframes abrusrightside {
@@ -1125,6 +1135,7 @@ li {
 
     .aboutus-left-side1 {
         position: absolute;
+        width: 90%;
         margin-top: 60em;
     }
     @keyframes aboutusanim {
