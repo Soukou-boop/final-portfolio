@@ -1086,6 +1086,9 @@ li {
     .left-side {
         padding: 10%;
         width: 75%;
+        font-size: clamp(1rem, 2.5vw, 2rem);
+        padding-right: 1rem;
+        padding-left: 1rem;
         margin-right: 9em;
         margin-top: -5em;
         
@@ -1094,9 +1097,9 @@ li {
        
     }
     .right-side {
-        margin-top: -34%;
-        height: 30%;
-        width: 80%;
+        margin-top: -25%;
+       
+        width: 90%;
         padding: 10%;
     }
     
@@ -1134,9 +1137,7 @@ li {
 
     .text {
         width: 100%;
-        font-size: clamp(1rem, 2.5vw, 2rem);
-        padding-right: 1rem;
-        padding-left: 1rem;
+       
         flex-direction: column;
     }
 
