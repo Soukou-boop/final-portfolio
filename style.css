@@ -1086,12 +1086,12 @@ li {
     .left-side {
        
         width: 100%;
-        font-size: clamp(1rem, 2.5vw, 2rem);
+        font-size: clamp(1rem, 2.5vw, 3rem);
         padding-right: 1rem;
         padding-left: 1rem;
         
        
-        margin-top: -4rem;
+        margin-top: -8rem;
        
         justify-content: center;
        
@@ -1106,7 +1106,7 @@ li {
 
    
     .profession1 {
-        font-size: 1.8rem;
+       
       margin-right: 6.3em;
     }
     .profession2 {
