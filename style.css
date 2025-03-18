@@ -1109,8 +1109,11 @@ li {
     }
     .profession2 {
         margin-right: 0.1em;
+        animation: none;
+        border-right: none;
       
     }
+
 
     .resume {
         font-size: 1.4rem;
@@ -1132,7 +1135,7 @@ li {
     .text {
         width: 15em;
         font-size: 1.4rem;
-        margin-left: 0.5em;
+        padding-right: 1.5rem;
         flex-direction: column;
     }
 
@@ -1168,6 +1171,7 @@ li {
 
     .aboutus-left-side1 {
         position: absolute;
+       
         width: 80%;
         margin-top: 61em;
     }
