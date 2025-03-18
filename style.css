@@ -1242,7 +1242,8 @@ li {
         gap: 3rem;
     }
     .option-title {
-        font-size: 1rem;
+       
+        font-size: 0.8rem;
     }
     .option1, .option2, .option3 {
         border: 1px solid green;
