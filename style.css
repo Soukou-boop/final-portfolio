@@ -1084,13 +1084,13 @@ li {
    
     
     .left-side {
-        padding: 10%;
-        width: 75%;
+       
+        width: 100%;
         font-size: clamp(1rem, 2.5vw, 2rem);
         padding-right: 1rem;
         padding-left: 1rem;
         margin-right: 9em;
-        margin-top: -5em;
+       
         
        
         justify-content: center;
