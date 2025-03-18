@@ -1089,7 +1089,7 @@ li {
         font-size: clamp(1rem, 2.5vw, 2rem);
         padding-right: 1rem;
         padding-left: 1rem;
-        margin-right: 9em;
+        
        
         
        
@@ -1097,17 +1097,20 @@ li {
        
     }
     .right-side {
-        margin-top: -25%;
+       
        
         width: 90%;
         padding: 10%;
     }
-    
+    .firstline {
+        font-size: 1.8rem;
+    }
 
     .second_line {
         font-size: 1.8rem;
     }
     .profession1 {
+        font-size: 1.8rem;
       margin-right: 6.3em;
     }
     .profession2 {
