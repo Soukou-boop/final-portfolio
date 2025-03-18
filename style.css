@@ -1194,17 +1194,23 @@ li {
         flex-direction: column;
 
     }
+    
 
     .ideaT {
         display: none;
     }
     .textside1 {
+        padding-top: 4rem;
+        padding: 4rem;
         padding-left: 1.6rem;
         padding-right: 1.6rem;
+        height: 80%;
         width: 100%;
         font-size: 1.2rem;
     }
     .textside2 {
+        padding-top: 4rem;
+        padding: 4rem;
         padding-left: 1.6rem;
         padding-right: 1.6rem;
         width: 100%;
