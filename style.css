@@ -1101,7 +1101,7 @@ li {
         margin-top: -6rem;
         width: 100%;
         padding: 10%;
-        height: 18%;
+        height: 23%;
     }
    
 
@@ -1119,10 +1119,12 @@ li {
 
 
     .resume {
+        position: absolute;
         font-size: 1rem;
+        margin-top: 9em;
     }
     .profession {
-        margin-left: -3em;
+        margin-left: -2em;
         flex-direction: column;
         font-size: 1.2rem;
        
@@ -1138,6 +1140,7 @@ li {
     
 
     .text {
+        height: 16em;
         width: 100%;
         font-size: 1.8rem;
         flex-direction: column;
