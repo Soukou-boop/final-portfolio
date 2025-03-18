@@ -1080,7 +1080,7 @@ li {
        
     }
     .right-side {
-        margin-top: -5px;
+        margin-top: 100px;
         height: 29%;
         width: 90%;
         padding: 10%;
@@ -1138,7 +1138,7 @@ li {
         width: 10em;
         position: absolute;
         font-size: 1.2rem;
-        margin-top: -6em;
+        margin-top: -6px;
     }
 
     @keyframes abrusrightside {
