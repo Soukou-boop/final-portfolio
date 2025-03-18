@@ -1191,7 +1191,7 @@ li {
 
     /*about us see more*/
     .child-container-5 {
-      
+        height: 80%;
         flex-direction: column;
 
     }
@@ -1202,19 +1202,19 @@ li {
     }
    
     .textside1 {
-        height: 20em;
+        height: 30em;
         padding-left: 1.6rem;
         padding-right: 1.6rem;
        
         width: 100%;
-        font-size: 2.5vw;
+        font-size: clamp(1rem, 2.5vw, 2rem);
     }
     .textside2 {
-        height: 20em;
+        height: 30em;
         padding-left: 1.6rem;
         padding-right: 1.6rem;
         width: 100%;
-        font-size: 2.5vw;
+        font-size: clamp(1rem, 2.5vw, 2rem);
     }
 
     .main-container-2, .main-container-9  {
