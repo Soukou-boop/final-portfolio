@@ -1035,10 +1035,7 @@ li {
         display: block;
        
     }
-    .burger_menu {
-        margin-left: 0.6rem;
-       
-    }
+   
     
 
 
@@ -1084,7 +1081,7 @@ li {
     }
     .right-side {
         margin-top: -30%;
-        height: 40%;
+        height: 29%;
         width: 90%;
         padding: 10%;
     }
@@ -1119,7 +1116,7 @@ li {
     
 
     .text {
-        width: 10em;
+        width: 6em;
         font-size: 1.4rem;
         margin-left: 0.5em;
         flex-direction: column;
