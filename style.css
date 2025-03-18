@@ -1115,7 +1115,7 @@ li {
     .text {
         width: 100%;
         font-size: 1.4rem;
-        margin-left: 0.5em;
+        margin-left: 15px;
         flex-direction: column;
     }
 
