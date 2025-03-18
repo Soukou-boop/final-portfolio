@@ -32,7 +32,7 @@ html {
     justify-content: space-around;
     display: flex;
     align-items: center;
-    gap: 0.5vw;
+    gap: 0.8vw;
    
     
 }
@@ -1080,7 +1080,7 @@ li {
        
     }
     .right-side {
-        margin-top: -40em;
+        margin-top: -20em;
         height: 29%;
         width: 90%;
         padding: 10%;
@@ -1102,7 +1102,7 @@ li {
         font-size: 1.4rem;
     }
     .profession {
-        margin-left: -30em;
+        margin-left: -15em;
         flex-direction: column;
     }
      
