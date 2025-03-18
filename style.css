@@ -1079,7 +1079,7 @@ li {
        
     }
     .right-side {
-        margin-top: -55%;
+        margin-top: -7rem;
         height: 40%;
         width: 90%;
         padding: 10%;
@@ -1115,9 +1115,9 @@ li {
     
 
     .text {
-        width: 15em;
+        width: 8rem;
         font-size: 1.4rem;
-        margin-left: 0.5em;
+        margin-left: 0.1rem;
         flex-direction: column;
     }
 
