@@ -1122,6 +1122,7 @@ li {
         position: absolute;
         font-size: 1rem;
         margin-top: 9em;
+        widht: 100%;
     }
     .profession {
         margin-left: -2em;
