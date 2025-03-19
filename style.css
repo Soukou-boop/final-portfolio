@@ -1091,14 +1091,14 @@ li {
         padding-left: 1rem;
         
        
-        margin-top: -8rem;
+        margin-top: -7rem;
        
         justify-content: center;
        
     }
     .right-side {
        
-        margin-top: -3rem;
+        margin-top: -2rem;
         width: 100%;
         padding: 10%;
         height: 26%;
@@ -1107,7 +1107,7 @@ li {
 
    
     .profession1 {
-       
+      position: absolute;
       margin-right: 2,7em;
     }
     .profession2 {
