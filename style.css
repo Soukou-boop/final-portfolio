@@ -1111,6 +1111,8 @@ li {
       margin-right: 6.3em;
     }
     .profession2 {
+        position: absolute;
+        margin-top: 3rem;
         margin-right: 0.1em;
         animation: none;
         border-right: none;
@@ -1121,6 +1123,7 @@ li {
 
     .resume {
         position: absolute;
+        padding-right: 2rem;
         font-size: 1rem;
         margin-top: 9em;
         widht: 100%;
