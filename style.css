@@ -1098,7 +1098,7 @@ li {
     }
     .right-side {
        
-        margin-top: -1rem;
+        margin-top: -2rem;
         width: 100%;
         padding: 10%;
         height: 26%;
@@ -1113,7 +1113,7 @@ li {
     .profession2 {
         position: absolute;
         margin-top: 3rem;
-        margin-right: -1em;
+        margin-right: -2rem;
         animation: none;
         border-right: none;
         font-size: 1.7rem;
