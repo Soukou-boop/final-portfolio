@@ -1148,6 +1148,7 @@ li {
         height: 16em;
         width: 100%;
         font-size: 1.8rem;
+        justify-content: start;
         flex-direction: column;
     }
     .second_line {
