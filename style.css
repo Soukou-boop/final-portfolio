@@ -1069,7 +1069,7 @@ li {
     }
     
     .burger_menu {
-       margin-left: 1.8rem;
+       margin-left: 2rem;
     }
    
 
@@ -1098,7 +1098,7 @@ li {
     }
     .right-side {
        
-        margin-top: -6rem;
+        margin-top: -4rem;
         width: 100%;
         padding: 10%;
         height: 26%;
@@ -1116,14 +1116,14 @@ li {
         margin-right: 0.1em;
         animation: none;
         border-right: none;
-        font-size: 1.6rem;
+        font-size: 1.4rem;
       
     }
 
 
     .resume {
         position: absolute;
-        padding-right: 2rem;
+        padding-right: 1.5rem;
         font-size: 1rem;
         margin-top: 9em;
         widht: 100%;
@@ -1131,7 +1131,7 @@ li {
     .profession {
         margin-left: -2em;
         flex-direction: column;
-        font-size: 1.2rem;
+        font-size: 1.8rem;
        
     }
      
