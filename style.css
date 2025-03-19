@@ -1113,7 +1113,7 @@ li {
     .profession2 {
         position: absolute;
         margin-top: 2rem;
-        margin-left: 1rem;
+        margin-left: -1rem;
         animation: none;
         border-right: none;
         font-size: 1.5rem;
