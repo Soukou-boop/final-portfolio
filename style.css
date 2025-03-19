@@ -1069,7 +1069,7 @@ li {
     }
     
     .burger_menu {
-       margin-left: 2.3rem;
+       margin-left: 2.5rem;
     }
    
 
@@ -1098,7 +1098,7 @@ li {
     }
     .right-side {
        
-        margin-top: -3rem;
+        margin-top: -1rem;
         width: 100%;
         padding: 10%;
         height: 26%;
@@ -1108,7 +1108,7 @@ li {
    
     .profession1 {
        
-      margin-right: 3em;
+      margin-right: 2,7em;
     }
     .profession2 {
         position: absolute;
@@ -1116,7 +1116,7 @@ li {
         margin-right: -1em;
         animation: none;
         border-right: none;
-        font-size: 1.4rem;
+        font-size: 1.7rem;
       
     }
 
