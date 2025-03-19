@@ -1108,12 +1108,12 @@ li {
    
     .profession1 {
       position: absolute;
-      margin-right: 8rem;
+      margin-left: -8rem;
     }
     .profession2 {
         position: absolute;
         margin-top: 3rem;
-        margin-right: 0rem;
+        margin-right: 1rem;
         animation: none;
         border-right: none;
         font-size: 1.5rem;
