@@ -1108,12 +1108,12 @@ li {
    
     .profession1 {
       position: absolute;
-      margin-right: -4rem;
+      margin-right: -10rem;
     }
     .profession2 {
         position: absolute;
         margin-top: 3rem;
-        margin-right: 1rem;
+        margin-right: 0.8rem;
         animation: none;
         border-right: none;
         font-size: 1.5rem;
@@ -1157,7 +1157,7 @@ li {
 
     .cv-button {
         position: absolute;
-        margin-top: -6rem;
+        margin-top: -4rem;
         margin-left: 5em;
     }
 
