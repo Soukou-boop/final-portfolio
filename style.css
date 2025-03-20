@@ -1333,7 +1333,7 @@ li {
 
 }
 
-@media (max-height: 400px) {
+@media (max-height: 550px) {
     .burger_menu {
         margin-left: 15vw;
     }
