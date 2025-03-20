@@ -1338,7 +1338,7 @@ li {
         margin-left: 15vw;
     }
     /*home*/
-    .main-container {
+    .main-container, .main-container-2 {
         padding-top: 30vw;
         height: 180vw;
 
@@ -1347,6 +1347,7 @@ li {
         margin-left: -18vw;
     }
     .right-side {
+        margin-top: -11vw;
         width: 43vw;
     }
     .cv-button {
