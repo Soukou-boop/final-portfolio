@@ -1347,7 +1347,7 @@ li {
         margin-left: -18vw;
     }
     .right-side {
-        margin-top: -11vw;
+        margin-top: -30vw;
         width: 43vw;
     }
     .cv-button {
@@ -1374,12 +1374,16 @@ li {
         width: 40vw;
     }
      /*about us see more*/
+    .child-container-5 {
+        margin-top: -7rem;
+    }
     .videoecc2, .videoecc3 {
         width: 8em;
     }
     .videoecc3 {
         height : 11rem;
     }
+    
 
     /*services*/
     .option1, .option2, .option3 {
