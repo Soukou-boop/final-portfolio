@@ -1373,6 +1373,10 @@ li {
         margin-top: 5rem;
         width: 40vw;
     }
+     /*about us see more*/
+    .videoecc2, .videoecc3 {
+        width: 7em;
+    }
 
     /*services*/
     .option1, .option2, .option3 {
