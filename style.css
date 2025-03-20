@@ -1375,7 +1375,10 @@ li {
     }
      /*about us see more*/
     .videoecc2, .videoecc3 {
-        width: 7em;
+        width: 8em;
+    }
+    .videoecc3 {
+        height : 11rem;
     }
 
     /*services*/
