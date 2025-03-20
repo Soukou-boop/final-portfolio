@@ -1332,3 +1332,50 @@ li {
     }
 
 }
+
+@media (max-height: 600px) {
+    .burger_menu {
+        margin-left: 15vw;
+    }
+    /*home*/
+    .main-container {
+        padding-top: 30vw;
+        height: 180vw;
+
+    }
+    .profession {
+        margin-left: -18vw;
+    }
+    .right-side {
+        width: 43vw;
+    }
+    .cv-button {
+        width: 40vw;
+    }
+
+    /*about*/
+   
+    .aboutus-paragraph {
+        margin-left: -6rem;
+        width: 70vw;
+    }
+
+    .aboutus-left-side1 {
+        height: 30vw;
+        width: 43vw;
+    }
+    .aboutus-title, .aboutus-title2 {
+        margin-left: -6rem;
+
+    }
+    .about-us-button {
+        margin-top: 5rem;
+        width: 40vw;
+    }
+
+    /*services*/
+    .option1, .option2, .option3 {
+        width: 70vw;
+    }
+
+}
