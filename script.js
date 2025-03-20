@@ -112,7 +112,7 @@ function sendEmail4() {
 //button contact whatsapp
 function contactSeller() {
     let phoneNumber = "+2250173659493"; // Replace with the actual phone number
-    let message = encodeURIComponent("Salut monsieur Soukou Franck-Axel! nous venons de visiter votre portfolio et aimerions nous entretenir avec vous pour en savoir plus, merci!");
+    let message = encodeURIComponent("Salut monsieur Soukou Franck-Axel! nous venons de visiter votre portfolio et aimerions nous entretenir avec vous pour en savoir plus sur vos services, merci!");
     let url = `https://wa.me/${phoneNumber}?text=${message}`;
     window.location.href = url;
 }
@@ -122,7 +122,7 @@ function sendEmail() {
     // Replace with your email address
     let email = "eskadebelair@gmail.com";
     let subject = "Un entretien";
-    let body = "Salut monsieur Soukou Franck-Axel! nous venons de visiter votre portfolio et aimerions nous entretenir avec vous pour en savoir plus, merci!";
+    let body = "Salut monsieur Soukou Franck-Axel! nous venons de visiter votre portfolio et aimerions nous entretenir avec vous pour en savoir plus sur vos services, merci!";
 
     // Format the mailto link
     let mailtoLink = `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
