@@ -1353,6 +1353,14 @@ li {
     .cv-button {
         width: 40vw;
     }
+      /*contact */
+    /*title*/
+    .contact_title {
+      display: none;
+    }
+    #contactpage, #contactpage2, #ontactpage3, #contactpage4 {
+        height: 20rem;
+    }
 
     /*about*/
    
