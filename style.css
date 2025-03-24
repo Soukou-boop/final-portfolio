@@ -1397,5 +1397,10 @@ li {
     .option1, .option2, .option3 {
         width: 70vw;
     }
+     /*services see more*/
+    .serviceseemoreT, .serviceseemoreT1, .serviceseemoreT3 {
+        background-color: black;
+
+    }
 
 }
