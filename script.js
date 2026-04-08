@@ -51,7 +51,7 @@ function contactSeller2() {
 function sendEmail2() {
     // Replace with your email address
     let email = "eskadebelair@gmail.com";
-    let subject = "Un entretien";
+    let subject = "Prise De Contacte";
     let body = "Salut monsieur Soukou Franck-Axel! nous venons de visiter votre portfolio et aimerions nous entretenir avec vous pour en savoir plus sur vos services de GRAPHIC DESIGNER, merci!";
 
     // Format the mailto link
@@ -63,7 +63,7 @@ function sendEmail2() {
 
 //button contact whatsapp for web designer
 function contactSeller3() {
-    let phoneNumber = "+233556090654"; // Replace with the actual phone number
+    let phoneNumber = "+2330556090654"; // Replace with the actual phone number
     let message = encodeURIComponent("Salut monsieur Soukou Franck-Axel! nous venons de visiter votre portfolio et aimerions nous entretenir avec vous pour en savoir plus sur vos services de WEB DESIGNER, merci!");
     let url = `https://wa.me/${phoneNumber}?text=${message}`;
     window.location.href = url;
@@ -85,7 +85,7 @@ function sendEmail3() {
 
 //button contact whatsapp for responsable marketing
 function contactSeller4() {
-    let phoneNumber = "+2250173659493"; // Replace with the actual phone number
+    let phoneNumber = "+2330556090654"; // Replace with the actual phone number
     let message = encodeURIComponent("Salut monsieur Soukou Franck-Axel! nous venons de visiter votre portfolio et aimerions nous entretenir avec vous pour en savoir plus sur vos services de RESPONSABLE MARKETING, merci!");
     let url = `https://wa.me/${phoneNumber}?text=${message}`;
     window.location.href = url;
@@ -95,7 +95,7 @@ function contactSeller4() {
 function sendEmail4() {
     // Replace with your email address
     let email = "eskadebelair@gmail.com";
-    let subject = "Un entretien";
+    let subject = "Prise De Contacte";
     let body = "Salut monsieur Soukou Franck-Axel! nous venons de visiter votre portfolio et aimerions nous entretenir avec vous pour en savoir plus sur vos services RESPONSABLE MARKETING, merci!";
 
     // Format the mailto link
@@ -111,7 +111,7 @@ function sendEmail4() {
 
 //button contact whatsapp
 function contactSeller() {
-    let phoneNumber = "+2250173659493"; // Replace with the actual phone number
+    let phoneNumber = "+2330556090654"; // Replace with the actual phone number
     let message = encodeURIComponent("Salut monsieur Soukou Franck-Axel! nous venons de visiter votre portfolio et aimerions nous entretenir avec vous pour en savoir plus sur vos services, merci!");
     let url = `https://wa.me/${phoneNumber}?text=${message}`;
     window.location.href = url;
@@ -121,7 +121,7 @@ function contactSeller() {
 function sendEmail() {
     // Replace with your email address
     let email = "eskadebelair@gmail.com";
-    let subject = "Un entretien";
+    let subject = "Prise De Contacte";
     let body = "Salut monsieur Soukou Franck-Axel! nous venons de visiter votre portfolio et aimerions nous entretenir avec vous pour en savoir plus sur vos services, merci!";
 
     // Format the mailto link
