@@ -41,7 +41,7 @@ function hideDiv4() {
 
 //button contact whatsapp for graphic designer
 function contactSeller2() {
-    let phoneNumber = "+233556090654"; // Replace with the actual phone number
+    let phoneNumber = "+2330556090654"; // Replace with the actual phone number
     let message = encodeURIComponent("Salut monsieur Soukou Franck-Axel! nous venons de visiter votre portfolio et aimerions nous entretenir avec vous pour en savoir plus sur vos services de GRAPHIC DESIGNER, merci!");
     let url = `https://wa.me/${phoneNumber}?text=${message}`;
     window.location.href = url;
@@ -63,7 +63,7 @@ function sendEmail2() {
 
 //button contact whatsapp for web designer
 function contactSeller3() {
-    let phoneNumber = "+2250173659493"; // Replace with the actual phone number
+    let phoneNumber = "+233556090654"; // Replace with the actual phone number
     let message = encodeURIComponent("Salut monsieur Soukou Franck-Axel! nous venons de visiter votre portfolio et aimerions nous entretenir avec vous pour en savoir plus sur vos services de WEB DESIGNER, merci!");
     let url = `https://wa.me/${phoneNumber}?text=${message}`;
     window.location.href = url;
